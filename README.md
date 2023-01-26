@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ArshadMasood
-- 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on zzzz
+- 
 - 📫 How to reach me @remnux10 
 
 <!---
